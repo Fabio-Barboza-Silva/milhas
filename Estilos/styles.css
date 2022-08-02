@@ -3,7 +3,7 @@
 }
 
 body {
-	background-image: url("../imagens/fundo-preto.jpg");
+	background-image: url("/fundo-preto.jpg");
 	color: white;
 }
 
@@ -12,7 +12,7 @@ strong {
 }
 
 .cabecalho{
-	background-image: url("../imagens/fundo-preto.jpg");
+	background-image: url("/fundo-preto.jpg");
 	color: white;
 	display: flex;	
 	flex-direction: column;
@@ -28,7 +28,7 @@ strong {
 }
 
 .fundo {
-	background-image: url("../imagens/fundomain1.jpg");
+	background-image: url("/fundomain1.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	color: white;
@@ -118,7 +118,7 @@ input{
 
 .faixa-preta-meio {
 
-	background-image: url("../imagens/fundo-preto.jpg");
+	background-image: url("/fundo-preto.jpg");
 	display: flex;
 	flex-direction: column;
 	align-items: center;
