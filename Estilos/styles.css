@@ -269,7 +269,6 @@ input{
 
 .norton {
 	display: flex;
-    flex-direction: colun;
     gap: 32px;
 	line-height: 30px;
 	font-size: 30px;
